@@ -14,7 +14,7 @@ Escrevi o CSS principal com base no conceito mobile-first e usei media queries p
 
 ## Minha solução
 ![Solução desktop](./design/desktop-screenshot.png)
-- [Visualização em página]()
+- [Visualização em página](https://instmi.github.io/qr-code-component-main/)
 
 ## Autora
-- [@ Frontend Mentor - ](https://www.frontendmentor.io/profile/instmi)
+- [@ Frontend Mentor](https://www.frontendmentor.io/profile/instmi)
